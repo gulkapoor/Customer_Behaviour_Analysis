@@ -1,4 +1,4 @@
-Here’s a shorter, more professional README that’s ideal for GitHub and recruiters.
+
 
 Customer Behavior Analysis
 
